@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["Welcome", "This is #atomtech", "We are from Bunamwaya."],    /* You can change the home section typing text from
+            strings: ["Welcome", "This is Atom Cybertech", "We are in Bunamwaya."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
